@@ -1,3 +1,7 @@
+## LIVE DEMO
+
+https://student-performance-analysis-system-sand.vercel.app/login
+
 # Student Performance Analysis System
 
 A comprehensive web application for managing and analyzing student academic performance, marks, and attendance. Built with React, Node.js, Express, and MongoDB.
